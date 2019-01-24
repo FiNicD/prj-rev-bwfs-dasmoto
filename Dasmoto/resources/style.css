@@ -1,0 +1,36 @@
+/* CSS Document */
+
+style {}
+
+
+  h2, h3, h4 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  font-color: black
+
+}
+
+.heading2 {
+  background-color: mediumspringgreen;
+}
+
+.heading3 {
+  background-color:lightcoral;
+}
+
+.heading4 {
+  background-color: skyblue;
+}
+
+h1 {
+color: khaki;
+font-weight: bold;
+font-size: 100px;;
+font-family: Helvetica;
+text-align: center;
+background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+
+.price {
+  color: blue;
+}
